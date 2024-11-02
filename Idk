@@ -132,9 +132,9 @@ headers = {
 
 
 
-# Set taps to 200000
+# Set taps to 20000000
 
-taps = '200000'
+taps = '20000000'
 
 
 
